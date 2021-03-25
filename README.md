@@ -1,3 +1,6 @@
 # test-devtools-repo
-* impoopa
-* imloopa
+* I'm Loopa
+* I'm Poopa
+* Our salries were swapped
+* Now Laugh
+* Made by Leon
